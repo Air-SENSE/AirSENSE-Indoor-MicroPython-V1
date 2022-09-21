@@ -1,4 +1,4 @@
-#Mã nguồn AirSENSE V3 sử dụng ngôn ngữ MicroPython
+# Source code AirSENSE V3 using Thonny IDE and MicroPython for programing
 
 **Link in conflunce:** [Demo MicroPython version 1.0](https://airsense.atlassian.net/wiki/spaces/AIRSENSE/pages/3964936/Demo+MicroPython+version+1.0)  
 
