@@ -23,7 +23,7 @@ This project is developed based on the pipeline described below.
 
 ## Tools
 
-install the IDE and tool in this tutorial:[Getting started thonny micropython](https://randomnerdtutorials.com/getting-started-thonny-micropython-python-ide-esp32-esp8266/  ) 
+install the IDE and tool in this tutorial: [Getting started thonny micropython](https://randomnerdtutorials.com/getting-started-thonny-micropython-python-ide-esp32-esp8266/  ) 
 
 ## Upload
 
@@ -34,7 +34,7 @@ To prepare your device, you’ll need a computer with Internet connection and an
     * Select folder where you unzip file code, select to workspace folder.
 
 <div align='center'>
-    <img src="./doc/view_file.png" width="40%">
+    <img src="./doc/view_file.png" width="95%">
 </div>
 
 3. Connect PC with AirSENSE Device.
@@ -42,7 +42,7 @@ To prepare your device, you’ll need a computer with Internet connection and an
 4. Use Thonny, upload all files in File View in the left of display (note: you must setting Thonny with steps above):
 
 <div align='center'>
-    <img src="./doc/upload_file.png" width="40%">
+    <img src="./doc/upload_file.png" width="95%">
 </div>
 
 5. When you finish unload file, open the main.py file, run with Run Script button (or F5).
