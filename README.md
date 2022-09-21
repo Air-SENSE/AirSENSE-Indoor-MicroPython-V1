@@ -11,10 +11,6 @@ This repository provides you with a detailed guide on how to build a IOT device 
   - [Architecture](#Architecture)
   - [Installing tools ](#Tools)
   - [How to use the source code](#upload)
-  - [License PLate Detection](./doc/plate-detect.md)
-  - [License Plate Recognition](./doc/plate-ocr.md)
-  - [Trained Models](#trained-models)
-  - [Reference](#reference)
   
   
 ## Architecture
