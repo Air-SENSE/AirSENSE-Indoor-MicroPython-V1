@@ -22,7 +22,7 @@ This repository provides you with a detailed guide on how to build a IOT device 
 This project is developed based on the pipeline described below.   
 
 <div align='center'>
-  <img src="./doc/images/Architecture.png" width="95%">
+  <img src="./doc/Architecture.png" width="95%">
 </div>
 
 ## Tools
@@ -38,7 +38,7 @@ To prepare your device, you’ll need a computer with Internet connection and an
     * Select folder where you unzip file code, select to workspace folder.
 
 <div align='center'>
-    <img src="./images/sdcard.png" width="40%">
+    <img src="./doc/view_file.png" width="40%">
 </div>
 
 3. Connect PC with AirSENSE Device.
@@ -46,9 +46,13 @@ To prepare your device, you’ll need a computer with Internet connection and an
 4. Use Thonny, upload all files in File View in the left of display (note: you must setting Thonny with steps above):
 
 <div align='center'>
-    <img src="./images/sdcard.png" width="40%">
+    <img src="./doc/upload_file.png" width="40%">
 </div>
 
 5. When you finish unload file, open the main.py file, run with Run Script button (or F5).
 
 run file default: main.py  
+
+<div align='center'>
+    <img src="./doc/run_button.png" width="40%">
+</div>
